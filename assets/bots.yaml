@@ -1,0 +1,7 @@
+bots:
+  monatry:
+    channels:
+      - ringonyan
+    oauth: oauth:loremipsum
+    clientId: deez
+    secretId: nutz

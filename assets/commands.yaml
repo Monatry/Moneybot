@@ -1,0 +1,25 @@
+monatry:
+  denied:
+    - Hmmm... Maybe if you say please? ringonComf
+  shoutout:
+    - Please check out twitch.tv/{displayName}. They were just playing ${gameName}, which sounds way more fun than whatever Ringo is doing right now ringonComf
+    - Shoutouts to twitch.tv/{displayName}. Twitch API tells me they were just playing ${gameName}. But idk so sure, this game thing has been kinda buggy for me ringonPeace 
+  kanye:
+    - "ringonDorime Yeezy once said: {quote} ringonDorime"
+  swap:
+    - YES! Now I have ALL THE POWER! ringonSpinny
+  lurk:
+    - "Thanks {displayName} for lurking! ringonOgg"
+    - "Thank you {displayName} for lurking! Remember to mute the tab so the view still counts! ringonHearto"
+    - "Thanks {displayName} for the lurk! See you again soon! ringonComf "
+  customCommand:
+    - "Yessir! Command: Updated! ringonDorime"
+  flipWin:
+    - " /ban {displayName} For cheating on coinflip"
+    - Psh. Whatever. I'm not impressed or anything.
+  flipLose:
+    - ringonSpinny LOL IDIOT ringonSpinny
+    - YOU LOSE! AHAHAHHAHAAHHA ringonSpinny
+  raid:
+    - Yo {displayName}, thanks for the raid! Welcome to the Ringonyan stream! We have space for exactly {viewers} more viewers ringonDorime
+

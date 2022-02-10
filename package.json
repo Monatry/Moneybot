@@ -1,0 +1,26 @@
+{
+  "name": "moneybot",
+  "version": "1.0.0",
+  "description": "Monatry's Custom Twitch bot",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "nodemon src/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@twurple/api": "^5.0.17",
+    "@twurple/auth": "^5.0.17",
+    "axios": "^0.25.0",
+    "tmi.js": "^1.8.5",
+    "yaml": "^1.10.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.15",
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.5.0",
+    "tslib": "^2.3.1",
+    "typescript": "^4.5.5"
+  }
+}

@@ -1,0 +1,7 @@
+version: "2.1"
+services:
+  moneybot:
+    container_name: moneybot
+    build: .
+    volumes:
+      - .:/app
